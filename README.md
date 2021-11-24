@@ -4,7 +4,7 @@
 The program built using Java.
 <br>
 This program built in my second year in my studies to demonstarte the OOP principles:
-1. Abstarction - Define the main Gate class.
+1. Abstarction - Define certain functions for the gates.
 2. Encapsulation - Save the gates array to only be visible to all the gates classes.
 3. Inheritence - All the specific gates inherit from the main Gate class.
 4. Polymorphism - All the gates have their own implementation to their methods.
