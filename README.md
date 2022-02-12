@@ -1,5 +1,5 @@
 # Logic Gates Equation
-#### Logic Gates Equation program to symplify equations and demonstrate the OOP principles.
+### Logic Gates Equation program to symplify equations and demonstrate the OOP principles.
 
 The program built using Java.
 <br>
@@ -15,6 +15,6 @@ This program built in my second year in my studies to demonstarte the OOP princi
     In the main class there are some examples for some gates, their final solve and their simplified form.
 </p>
 
-#### Important methods:
+### Important methods:
 - calc() - method to return the calculation of the gate using func() method of every specific gate.
 - simplify() - return simplified equation for the gate.
